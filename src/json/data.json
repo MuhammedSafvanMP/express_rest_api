@@ -1,0 +1,23 @@
+[
+    {
+        "id":"7568afa0-fc1d-4208-ac6d-147cc8d1a0ef",
+        "name": "Laptop",
+        "price": 5000,
+        "quantity": 5,
+        "active": true
+    },
+    {
+        "id": "7568afa0-fc1d-4208-ac6d-147cc8d1a0eg",
+        "name": "Keybord",
+        "price": 3000,
+        "quantity": 3,
+        "active": true
+    },
+    {
+        "id": "7568afa0-fc1d-4208-ac6d-147cc8d1a0eh",
+        "name": "Iphone",
+        "price": 70000,
+        "quantity": 100,
+        "active": false
+    }
+]
