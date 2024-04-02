@@ -1,0 +1,20 @@
+{
+  "name": "express_rest_api",
+  "version": "1.0.0",
+  "description": "Build a CRUD application using the REST principles with Node.js and Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "safu",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MuhammedSafvanMP/express_rest_api.git"
+  },
+  "author": "Muhammed Safvan MP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
